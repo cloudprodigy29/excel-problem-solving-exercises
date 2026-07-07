@@ -1,4 +1,4 @@
-# Excel Problem Solving Case Study
+# Excel Problem Solving Exercises
 
 A collection of spreadsheet-based business case studies demonstrating practical Excel skills in data modeling, financial analysis, formula design, and data visualization.
 
